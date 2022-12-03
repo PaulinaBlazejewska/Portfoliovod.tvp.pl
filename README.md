@@ -35,7 +35,7 @@ Szkolenie Indywidualne tester manualny 21.11.2022
 * [Nie działający przycisk dźwięk](https://docs.google.com/document/d/1G7Vu54HY3O1vqeww707et-RWbP4KTJGp/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true )
 * [Nie porawne działanie wyszukiwarki](https://docs.google.com/document/d/1jwYUPYvCsc6E5EEXFVWPkpWKQKiK65Mh/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true)
 * [Wyświetlanie większej ilości reklam niż zakłada strona](https://docs.google.com/document/d/1orHyS4fk0JEQ2ttAggAHibFURz7-K_QV/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true)
-* [Nie respektowanie wymagalności pól]([https://docs.google.com/document/d/1nbAsUi4HOqG9_ufkOzvW7v5UlWJKOiow/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true)
+* [Nie respektowanie wymagalności pól]([[https://docs.google.com/document/d/1nbAsUi4HOqG9_ufkOzvW7v5UlWJKOiow/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true](https://docs.google.com/document/d/1nbAsUi4HOqG9_ufkOzvW7v5UlWJKOiow/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true))
 * [Brak komunikatu](https://docs.google.com/document/d/1Hf77cEVV0PgSlX1q6a5yVjBs3LtaDjYO/edit?usp=sharing&ouid=112509652839491815948&rtpof=true&sd=true)
 ## MY REPORT
 ## MY REPORT FOR VOD.TVP.PL

@@ -1,6 +1,7 @@
 # PORTFOLIO
-## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+## ABOUT ME 
+Jestem aspirującym testerem manualnym, by zostać testerem ukończyłam kurs "Szkolenie indywidualne tester manualny" pod okiem Waldemara Szafrańca. Staram się poszerzać moją wiedzę dawkując literaturę między innymi:  Wolny czas poświęcam na rozwój osobisty.
+I am 
 ## TOOLS
 * Jira
 * TestLink

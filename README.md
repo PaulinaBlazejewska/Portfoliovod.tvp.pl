@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME 
-Jestem aspirującym testerem manualnym, by zostać testerem ukończyłam kurs "Szkolenie indywidualne tester manualny" pod okiem Waldemara Szafrańca. Staram się poszerzać moją wiedzę dawkując literaturę między innymi:  Wolny czas poświęcam na rozwój osobisty.
+Od pół roku przygotowuję się, aby zostać testerką manualną. Ukończyłam kurs „Szkolenie indywidualne – tester manualny” pod okiem Waldemara Szafrańca, w wolnym czasie poszerzając horyzonty wiedzy literaturą branżową, ostatnio „Zawód Tester” Radosława Smilgina. Zależy mi, aby przekuć wiedzę teoretyczną z książek, jak i praktyczną z kursu w solidne doświadczenie zawodowe. Jestem osobą uważną, dbającą o szczegóły – właśnie ta cecha sprawia, że świetnie odnajduję się w roli testerki.
 I am 
 ## TOOLS
 * Jira
